@@ -101,5 +101,3 @@ Aquí se muestra el resultado de las pruebas generadas en el archivo `tests_repo
 - 💼 LinkedIn: [Eduardo Gallifa Ochoa](https://www.linkedin.com/in/eduardogallifaochoa)
 
 ---
-
-¡Gracias por revisar este proyecto! 🧪✨
