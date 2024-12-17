@@ -67,25 +67,6 @@ Al finalizar, abre el archivo `reports/test_report.html` en tu navegador para ve
 
 ---
 
-## 🤝 Contribuir
-
-Si deseas contribuir, sigue estos pasos:
-
-1. Haz un fork del repositorio.
-2. Crea una nueva rama con:
-
-git checkout -b mejora/nueva-funcionalidad
-
-3. Realiza tus cambios y haz commit:
-
-git commit -m "Añadida nueva funcionalidad X"
-
-
-4. Envía tus cambios con:
-git push origin mejora/nueva-funcionalidad
-
----
-
 ## 📊 Resultado de las Pruebas
 
 Aquí se muestra el resultado de las pruebas generadas en el archivo `tests_report.html`:
