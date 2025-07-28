@@ -1,4 +1,7 @@
-# 🚀 SauceDemo Automation Testing Project
+# 🚀 SauceDemo Automation
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-WebDriver-orange?logo=selenium&logoColor=white)
 
 Este proyecto realiza pruebas automatizadas usando Selenium y Python para verificar la funcionalidad básica en la página SauceDemo.
 
